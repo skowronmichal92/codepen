@@ -1,4 +1,4 @@
-// ogolne style dla codepen
+/* ogolne style dla probek codepen */
 
 .box {
   height: 100vh;
@@ -6,3 +6,4 @@
   justify-content: center;
   align-items: center;
   background-color: #1D1F20;
+}
